@@ -1,0 +1,28 @@
+name: Fysio Helsinki
+favicon: null
+layout_spectrum: 0.4176677118521184
+typography_spectrum: 0.16364927333779633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22345637646503747
+  lightness: 0.14212379488162696
+  saturation: 0.0276651200838387
+  rhythmicContrast: 0.5472822489682585
+purpose: []
